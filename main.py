@@ -1,11 +1,5 @@
-import os, sys
-
-
 def main():
-    unused = 5
-    x = None
-    if x == None:
-        pass
+    print("Hello from dsc190a5")
 
 
 if __name__ == "__main__":
